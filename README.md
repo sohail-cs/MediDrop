@@ -94,22 +94,6 @@ Orders move through the following states:
 - DELIVERED  
 - CANCELLED  
 
-## Tech Stack (Update this based on what you choose)
-- Backend: (e.g. Java Spring Boot / Node.js / .NET)
-- Database: PostgreSQL
-- Authentication: JWT
-- Deployment: Docker (planned)
-
-## Future Improvements
-- Real-time notifications (WebSockets)
-- Advanced driver assignment algorithm
-- Integration with real payment gateways
-- Fraud detection system
-- Scalability improvements using microservices
-
-## How to Run (To be added)
-Instructions for setting up and running the project locally will be added here.
-
 
 ## Project Goal
 This project is built to demonstrate backend engineering skills including system design, API development, database modeling, and handling real-world edge cases in a scalable system.
